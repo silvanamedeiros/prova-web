@@ -18,7 +18,7 @@ header {
 
 
 
-header div {
+.div {
     display: flex;
     align-items: center;
 
@@ -71,6 +71,7 @@ header div {
 
 
 .us {
+    padding: 10px;
     display: flex;
     justify-content: space-evenly;
     align-items: center;
@@ -98,6 +99,23 @@ h1 {
 
 
 }
+
+.confort {
+   padding: 10px;
+   display: flex;
+   justify-content: center;
+   align-items: center;
+
+}
+
+.confort image {
+    width: 400px;
+    height: 400px;
+
+
+}
+
+
 
 
 
