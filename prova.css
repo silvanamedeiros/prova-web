@@ -47,24 +47,16 @@ header div {
 }
 
 
-
-
-h1 {
-    color: white;
-    font-size: 30px;
-
-}
-
-
 .conteudo {
     padding: 150px;
 
 }
 
-.conteudo p {
+.conteudo {
+    padding: 30px;
     display: flex;
     justify-content: center;
-
+    color: white;
 
 }
 
@@ -75,24 +67,42 @@ h1 {
     height: 400px;
 
 
-
-
 }
 
 
 .us {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
 
+
+
+
+}
+
+h1 {
+    color: white;
+    font-size: 30px;
+
+}
+
+.us p {
+    font-size: 15px;
+    color: white;
 
 }
 
 
 .button {
-
-
-
+    width: 50px;
 
 
 }
+
+
+
+
+
 
 
 
